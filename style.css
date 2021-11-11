@@ -1,4 +1,14 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;}
+h1{
+    color:grey;
+    text-align: center;
+}
+#formulario{
+    margin-left: 20%;;
+}
+#rcorners1 {
+    border-radius: 25px;
+    background:white;
+    padding: 20px; 
+    margin: 20px;
+  }
